@@ -1,2 +1,8 @@
 #!/bin/bash
 ls -d */
+total 20
+-rw-r--r-- 1 root root 31 Mar  3 12:29 0-current_working_directory
+-rw-r--r-- 1 root root 21 Mar  3 12:48 1-listit
+-rw-r--r-- 1 root root  6 Mar  3 12:37 l-listit
+-rw-r--r-- 1 root root 66 Mar  3 12:29 path_name.sh
+-rw-r--r-- 1 root root 13 Mar  3 12:29 README.md
