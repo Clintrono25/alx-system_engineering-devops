@@ -1,2 +1,7 @@
 #!/bin/bash
 ls
+0-current_working_directory
+1-listit
+l-listit
+path_name.sh
+README.md
