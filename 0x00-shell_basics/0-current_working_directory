@@ -1,1 +1,2 @@
 #!/bin/bash
+realpath /bin/bash
