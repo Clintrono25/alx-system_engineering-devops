@@ -8,3 +8,4 @@ total 28
 -rw-r--r-- 1 root root  6 Mar  4 00:48 l-listit
 -rw-r--r-- 1 root root 66 Mar  4 00:48 path_name.sh
 -rw-r--r-- 1 root root 13 Mar  4 00:48 README.md
+ls -l
