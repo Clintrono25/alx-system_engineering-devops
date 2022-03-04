@@ -1,18 +1,2 @@
 #!/bin/bash
 0-current_working_directory 1-listit l-listit README.md
-total 24
--rw-r--r-- 1 root root 105 Mar  4 01:20 0-current_working_directory
--rw-r--r-- 1 root root   0 Mar  4 01:41 1-lisititjnjbhvbn
--rw-r--r-- 1 root root  68 Mar  4 00:48 1-listit
--rw-r--r-- 1 root root  15 Mar  4 00:48 2-bring_me_home
--rw-r--r-- 1 root root   6 Mar  4 00:48 l-listit
--rw-r--r-- 1 root root  66 Mar  4 00:48 path_name.sh
--rw-r--r-- 1 root root  13 Mar  4 00:48 README.md
-total 24
--rw-r--r-- 1 root root  65 Mar  4 01:44 0-current_working_directory
--rw-r--r-- 1 root root   0 Mar  4 01:41 1-lisititjnjbhvbn
--rw-r--r-- 1 root root 460 Mar  4 01:43 1-listit
--rw-r--r-- 1 root root  15 Mar  4 00:48 2-bring_me_home
--rw-r--r-- 1 root root   6 Mar  4 00:48 l-listit
--rw-r--r-- 1 root root  66 Mar  4 00:48 path_name.sh
--rw-r--r-- 1 root root  13 Mar  4 00:48 README.md
