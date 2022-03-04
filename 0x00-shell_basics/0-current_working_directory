@@ -1,8 +1,2 @@
 #!/bin/bash
-realpath /bin/bash
-pwd
-pwd
-pwd
-pwd
-/alx-system_engineering-devops/0x00-shell_basics
-pwd  pwd
+pwd /alx-system_engineering-devops/0x00-shell_basics
