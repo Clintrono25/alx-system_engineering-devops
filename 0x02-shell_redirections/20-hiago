@@ -1,2 +1,4 @@
-#!/bin/bash
-tr -d 'Cc'
+[master bed1112] 20. Without C, you would live in hiago
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+ delete mode 100755 0x00-shell_basics/14_copy-html
+ create mode 100755 0x02-shell_redirections/20-hiago
