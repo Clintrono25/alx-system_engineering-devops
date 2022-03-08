@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -an
+mkdir /tmp/my_first_directory
