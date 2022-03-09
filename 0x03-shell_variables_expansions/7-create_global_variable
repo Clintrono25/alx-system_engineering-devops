@@ -1,2 +1,5 @@
 #!/bin/bash
 export BEST=School
+[master b68ec59] 7. Global variable
+ 2 files changed, 5 insertions(+)
+ create mode 100755 0x03-shell_variables_expansions/7-create_global_variable
