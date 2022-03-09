@@ -1,2 +1,5 @@
 #!/bin/bash
 BEST = School
+[master e338806] 6. Local variable
+ 1 file changed, 2 insertions(+)
+ create mode 100755 0x03-shell_variables_expansions/6-create_local_variable
