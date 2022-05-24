@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -h root:root _hello 
+chown -h _hello vincent:staff
