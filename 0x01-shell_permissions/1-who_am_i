@@ -1,3 +1,2 @@
 #!/bin/bash
-u="$USER"
-echo "User name $u"
+whoami
